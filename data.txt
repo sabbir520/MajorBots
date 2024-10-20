@@ -1,1 +1,1 @@
-
+query_id=AAF681shAwAAAHrzWyFlNuRG&user=%7B%22id%22%3A7002125178%2C%22first_name%22%3A%22Elina%20Mantrali%22%2C%22last_name%22%3A%22%F0%9F%A6%B4%22%2C%22username%22%3A%22Elina_Mantrali_27%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1729354281&hash=fa07af16e35eadfb4a97b1943c09aab806b562ff7d2459a4b7a95840a460407e
