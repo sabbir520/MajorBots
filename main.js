@@ -6,8 +6,7 @@ const config = require("./config");
 const { spawn } = require("child_process");
 const readline = require("readline");
 
-const banner = """`\x1b[33m
-
+const banner = '
  ____        _     _     _
     / ___|  __ _| |__ | |__ (_)_ __
     \___ \ / _` | '_ \| '_ \| | '__|
@@ -17,7 +16,7 @@ const banner = """`\x1b[33m
 
     Github  : https://github.com/sabbir520
     Telegram: https://t.me/md_sabbir_520
-\x1b[0m`""";
+`;
 
 class Major {
   constructor() {
